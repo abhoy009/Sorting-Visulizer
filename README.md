@@ -48,4 +48,4 @@ Contributions to improve the visualizer or add new sorting algorithms are welcom
 
 ## License
 
-[Your chosen license, e.g. MIT License]
+
